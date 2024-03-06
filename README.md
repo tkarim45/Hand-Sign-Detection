@@ -1,4 +1,6 @@
-<h1 style="color:blue;text-align:center;">Sign Language Detection Project</h1>
+<div style="color: blue; text-align: center;">
+    <h1>Sign Language Detection Project</h1>
+</div>
 
 ![alt text](https://www.mdpi.com/jimaging/jimaging-06-00073/article_deploy/html/images/jimaging-06-00073-g009.png)
 
