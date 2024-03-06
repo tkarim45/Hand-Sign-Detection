@@ -1,5 +1,7 @@
 # Sign Language Detection Project #
 
+<h1>Sign Language Detection Project</h1>
+
 ![alt text](https://www.mdpi.com/jimaging/jimaging-06-00073/article_deploy/html/images/jimaging-06-00073-g009.png)
 
 This project is aimed at developing an AI-based system that can detect sign languages in real-time.
